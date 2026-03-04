@@ -7,7 +7,7 @@ import { BuyButton } from "./BuyButton";
  */
 figma.connect(
   BuyButton,
-  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=581-7453",
+  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=581-7448",
   {
     props: {
       label: figma.string("Label"),

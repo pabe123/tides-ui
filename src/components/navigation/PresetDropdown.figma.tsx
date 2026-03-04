@@ -7,7 +7,7 @@ import { PresetDropdown } from "./PresetDropdown";
  */
 figma.connect(
   PresetDropdown,
-  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=593-437",
+  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=593-438",
   {
     props: {
       value: figma.string("Preset Name"),

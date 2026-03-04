@@ -7,7 +7,7 @@ import { LunacyLogoButton } from "./LunacyLogoButton";
  */
 figma.connect(
   LunacyLogoButton,
-  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=644-546",
+  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=581-7399",
   {
     props: {
       property1: figma.enum("Property 1", {

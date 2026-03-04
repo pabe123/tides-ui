@@ -7,7 +7,7 @@ import { NavButton } from "./NavButton";
  */
 figma.connect(
   NavButton,
-  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=581-7528",
+  "https://www.figma.com/design/wn1aKAukbTj44YhydxQPsP?node-id=581-7537",
   {
     props: {
       tooltip: figma.string("Tooltip"),
